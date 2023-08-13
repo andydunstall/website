@@ -1,0 +1,50 @@
+.header {
+  color: #444;
+  text-align: left;
+  padding: 5% 10%;
+  font-family: 'Poppins', 'Helvetica', sans-serif;
+}
+
+.header h1 {
+  font-size: 32px;
+  color: #0B1C27;
+}
+
+.header a {
+  color: #0B1C27;
+  text-decoration: none;
+}
+
+.header h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #999;
+}
+
+@media (min-width: 500px) {
+  .header h1 {
+    font-size: 48px;
+  }
+
+  .header h2 {
+    font-size: 26px;
+  }
+}
+
+.header .contact {
+  padding-top: 5px;
+}
+
+.header .contact a {
+  padding-right: 10px;
+}
+
+.landing {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.landing p {
+  font-size: 20px;
+  color: #0B1C27;
+}
