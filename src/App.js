@@ -20,8 +20,9 @@ function App() {
 	  <div className="landing">
 		<p>
 			Hi, I'm Andy Dunstall. I'm a software engineer based near London.
-
-			I've moved all of my notes <b><a href="https://publish.obsidian.md/andydunstall/public/About">here</a></b>.
+		</p>
+		<p>
+			You can contact me via the above links.
 		</p>
 	  </div>
     </div>
